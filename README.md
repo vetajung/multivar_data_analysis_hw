@@ -1,5 +1,4 @@
 # multivar_data_analysis_hw
-다변량분석_19년도 과제_정은영
 
 ### * Association Rule Mining
 MOOC 강좌를 수강한 수강생들에 대한 정보가 포함되어 있는 데이터 셋으로 데이터를 변환하고 연관규칙분석을 수행  [[과제문제pdf](Association_Rule_Mining/Assignment_1.pdf)]  
